@@ -30,3 +30,8 @@ Equivalente a:
 ``` sh
 sudo apt-get install htop libreoffice transmission-gtk
 ```
+### Ejecutar *Scripts*
+
+```sh
+bash nombre_script.sh
+```
