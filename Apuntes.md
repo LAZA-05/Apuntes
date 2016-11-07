@@ -16,4 +16,17 @@ sudo adduser nombre_usuario sudo
 ```
 sudo apt-get update && sudo apt-get upgrate && sudo apt-get dist-upgrade && sudo apt-get autoremove
 ```
-### Instalar 
+### Instalar instalador gráfico de paquetes Debian
+```sh
+sudo apt-get install gdebi
+### Instalar mis aplicaciones favoritas
+
+```sh
+sudo apt-get install htop
+sudo apt-get install libreoffice
+sudo apt-get install transmission-gtk
+```
+Equivalente a:
+``` sh
+sudo apt-get install htop libreoffice transmission-gtk
+```
